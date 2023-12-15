@@ -1,4 +1,4 @@
-# Pulsar Neighborhood web site
+# Pulsar Neighborhood web site mirror
 
 Welcome to the home for the [Pulsar Neighborhood site](https://pulsar-neighborhood.com). This is the source behind the magic. As an open community we welcome all ideas and contributions, whether it is a new feature on the site or content you would like to see.
 
